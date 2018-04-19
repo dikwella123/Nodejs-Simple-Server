@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-simple-server",
+  "version": "1.0.0",
+  "description": "This is my first Node js server setup project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Perez Dikwella James",
+  "license": "ISC"
+}
